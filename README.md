@@ -54,7 +54,11 @@ The repository includes study material for the following subjects:
 ## Disclaimer
 All materials are intended for educational purposes only. Ensure you use them in accordance with SPPU's academic integrity guidelines.
 
+## Contact
 
+For any questions or suggestions, please contact on gauravghandat12@gmail.com.
+
+Happy studying and best of luck with your exams!
 
 ---
 
